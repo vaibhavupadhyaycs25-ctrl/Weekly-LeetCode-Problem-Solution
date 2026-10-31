@@ -17,4 +17,16 @@
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Array
+|  |
+| ------- |
+| [3665-twisted-mirror-path-count](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/3665-twisted-mirror-path-count) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3665-twisted-mirror-path-count](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/3665-twisted-mirror-path-count) |
+## Matrix
+|  |
+| ------- |
+| [3665-twisted-mirror-path-count](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/3665-twisted-mirror-path-count) |
 <!---LeetCode Topics End-->
