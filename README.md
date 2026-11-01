@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3665-twisted-mirror-path-count](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/3665-twisted-mirror-path-count) |
 ## Dynamic Programming
 |  |
@@ -29,4 +30,8 @@
 |  |
 | ------- |
 | [3665-twisted-mirror-path-count](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/3665-twisted-mirror-path-count) |
+## Math
+|  |
+| ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 <!---LeetCode Topics End-->
