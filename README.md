@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Graph Theory
 |  |
@@ -72,4 +73,8 @@
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
