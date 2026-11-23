@@ -28,6 +28,7 @@
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -54,6 +55,7 @@
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -85,6 +87,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Simulation
 |  |
@@ -102,4 +105,12 @@
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/3331-find-subtree-sizes-after-changes) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
