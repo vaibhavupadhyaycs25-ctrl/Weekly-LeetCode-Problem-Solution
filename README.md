@@ -35,6 +35,7 @@
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/3665-twisted-mirror-path-count) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -57,6 +58,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
@@ -74,6 +76,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Two Pointers
 |  |
@@ -113,4 +116,12 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/1352-product-of-the-last-k-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vaibhavupadhyaycs25-ctrl/Weekly-LeetCode-Problem-Solution/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
